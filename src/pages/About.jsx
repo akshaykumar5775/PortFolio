@@ -40,7 +40,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500 '>
         <p>
-          This is regarding my alma mater or my past academic qualifitions (Below mentioned  all the information you have included is correct to the best of your knowledge) , which are listed below:-
+          This is regarding my alma mater or my past academic qualifications (Below mentioned  all the information you have included is correct to the best of your knowledge) , which are listed below:-
         </p>
       </div>
         <div className='mt-12 flex'>
