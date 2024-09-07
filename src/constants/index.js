@@ -160,7 +160,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Seeking Jobs',
         description: 'An innovative online platform that empowers companies to create and post job openings.Provide users with a seamless opportunity to submit their applications.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://github.com/akshaykumar5775/',
     },
     
 ];
